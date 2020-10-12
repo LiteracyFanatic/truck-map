@@ -1,0 +1,156 @@
+city,lat,lng
+Milwaukee,43.0642,-87.9673
+Madison,43.0826,-89.3931
+Appleton,44.2779,-88.3891
+Green Bay,44.5150,-87.9896
+Racine,42.7274,-87.8135
+Kenosha,42.5864,-87.8765
+Eau Claire,44.8199,-91.4949
+La Crosse,43.8240,-91.2268
+West Allis,43.0068,-88.0296
+Whitefish Bay,43.1132,-87.9004
+Shorewood,43.0914,-87.8864
+Oshkosh,44.0228,-88.5619
+Wausau,44.9620,-89.6459
+Waukesha,43.0087,-88.2464
+Janesville,42.6855,-89.0136
+West Bend,43.4184,-88.1824
+Sheboygan,43.7403,-87.7316
+Beloit,42.5230,-89.0184
+Fond du Lac,43.7718,-88.4396
+Wauwatosa,43.0615,-88.0347
+Manitowoc,44.0991,-87.6811
+Stevens Point,44.5241,-89.5508
+New Berlin,42.9726,-88.1291
+Brookfield,43.0640,-88.1231
+Menomonee Falls,43.1487,-88.1227
+Greenfield,42.9619,-88.0051
+Oak Creek,42.8803,-87.9009
+Franklin,42.8854,-88.0104
+Sun Prairie,43.1827,-89.2358
+Fitchburg,42.9859,-89.4255
+Wisconsin Rapids,44.3927,-89.8265
+Mount Pleasant,42.7129,-87.8875
+Neenah,44.1670,-88.4764
+Superior,46.6941,-92.0823
+Caledonia,42.7986,-87.8762
+Muskego,42.8860,-88.1291
+De Pere,44.4309,-88.0785
+Hudson,44.9637,-92.7316
+Burlington,42.6746,-88.2723
+Mequon,43.2352,-87.9838
+Watertown,43.1893,-88.7285
+Mukwonago,42.8566,-88.3269
+Fort Atkinson,42.9253,-88.8441
+Pleasant Prairie,42.5266,-87.8895
+South Milwaukee,42.9120,-87.8627
+Howard,44.5703,-88.0920
+Germantown,43.2343,-88.1217
+Middleton,43.1065,-89.5058
+Fox Crossing,44.2229,-88.4763
+Onalaska,43.8881,-91.2074
+Marshfield,44.6627,-90.1728
+Marinette,45.0870,-87.6328
+Menomonie,44.8893,-91.9084
+Cudahy,42.9467,-87.8641
+Beaver Dam,43.4690,-88.8308
+Menasha,44.2124,-88.4272
+Ashwaubenon,44.4796,-88.0889
+Oconomowoc,43.0995,-88.4950
+River Falls,44.8610,-92.6248
+Kaukauna,44.2776,-88.2645
+Bellevue,44.4593,-87.9554
+Lake Geneva,42.5824,-88.4281
+Hartford,43.3223,-88.3782
+Weston,44.8905,-89.5487
+Salem Lakes,42.5366,-88.1307
+Whitewater,42.8372,-88.7341
+Pewaukee,43.0701,-88.2411
+Chippewa Falls,44.9358,-91.3902
+Greendale,42.9371,-88.0018
+Waunakee,43.1829,-89.4445
+Allouez,44.4721,-88.0261
+Baraboo,43.4695,-89.7376
+Verona,42.9893,-89.5383
+Stoughton,42.9234,-89.2215
+Plover,44.4614,-89.5383
+Suamico,44.6352,-88.0664
+Glendale,43.1288,-87.9277
+Oregon,42.9253,-89.3892
+Elkhorn,42.6711,-88.5377
+Harrison,44.1935,-88.2941
+Platteville,42.7280,-90.4676
+Little Chute,44.2905,-88.3206
+Port Washington,43.3847,-87.8852
+Delavan,42.6281,-88.6324
+Richfield,43.2372,-88.2413
+Brown Deer,43.1743,-87.9750
+Grafton,43.3204,-87.9480
+Cedarburg,43.2991,-87.9887
+Waupun,43.6315,-88.7380
+Two Rivers,44.1564,-87.5824
+Sussex,43.1341,-88.2232
+DeForest,43.2301,-89.3437
+Monroe,42.6030,-89.6382
+Portage,43.5489,-89.4658
+Sparta,43.9378,-90.8131
+Shawano,44.7748,-88.5843
+Hobart,44.4967,-88.1602
+Holmen,43.9699,-91.2661
+St. Francis,42.9716,-87.8729
+Merrill,45.1820,-89.6995
+Rice Lake,45.4863,-91.7447
+Reedsburg,43.5347,-89.9965
+Hartland,43.1027,-88.3399
+Tomah,43.9879,-90.4999
+New Richmond,45.1249,-92.5377
+Plymouth,43.7447,-87.9657
+McFarland,43.0203,-89.2858
+Rhinelander,45.6361,-89.4256
+Prairie du Sac,43.2920,-89.7353
+Sturgeon Bay,44.8228,-87.3660
+Somers,42.6411,-87.8919
+Monona,43.0540,-89.3334
+Kronenwetter,44.8164,-89.5807
+Ripon,43.8436,-88.8387
+Jefferson,43.0044,-88.8084
+Sheboygan Falls,43.7290,-87.8266
+Altoona,44.8029,-91.4385
+Antigo,45.1413,-89.1556
+Windsor,43.2406,-89.2952
+Waupaca,44.3506,-89.0719
+Hales Corners,42.9410,-88.0491
+Delafield,43.0720,-88.3913
+Mount Horeb,43.0060,-89.7317
+Edgerton,42.8385,-89.0699
+New London,44.3950,-88.7394
+Union Grove,42.6863,-88.0495
+Jackson,43.3237,-88.1660
+Cottage Grove,43.0910,-89.2034
+Kiel,43.9167,-88.0266
+Ashland,46.5801,-90.8715
+Lake Mills,43.0776,-88.9054
+Kimberly,44.2670,-88.3377
+Columbus,43.3354,-89.0300
+Lake Hallie,44.8921,-91.4199
+Sturtevant,42.6995,-87.9019
+Fox Point,43.1581,-87.9013
+Prairie du Chien,43.0429,-91.1373
+Twin Lakes,42.5192,-88.2489
+Evansville,42.7781,-89.2967
+Elm Grove,43.0479,-88.0867
+Rib Mountain,44.9196,-89.6763
+Baldwin,44.9540,-92.3709
+Milton,42.7751,-88.9430
+Lake Delton,43.5932,-89.7842
+Slinger,43.3318,-88.2799
+Waterford,42.7646,-88.2160
+Black River Falls,44.2981,-90.8420
+Rothschild,44.8761,-89.6173
+Wind Lake,42.8230,-88.1573
+Tichigan,42.8087,-88.2150
+Bristol,42.5378,-88.0149
+North Fond du Lac,43.8107,-88.4861
+Summit,43.0504,-88.4815
+West Salem,43.8989,-91.0883
+Mauston,43.7972,-90.0773
